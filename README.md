@@ -1,3 +1,6 @@
-# Brainwave_Matrix_Intern
-In this internship I have created a python based phishing link scanner that identifies and flags malicious and safe links, providing users with a safer online experience.
-Also a python based password strength checker that evaluates the strength of passwords, helping users create more secure and resilient credentials for a safer online experience.
+#Brainwave_Matrix_Intern
+During this internship, I developed two Python-based tools:
+
+1. Phishing Link Scanner: A tool designed to identify and flag malicious and safe links, ensuring a safer online experience for users.
+
+2.Password Strength Checker: A tool that evaluates the strength of passwords, helping users create more secure and resilient credentials for enhanced online security.
